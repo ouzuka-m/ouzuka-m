@@ -7,7 +7,7 @@ Most projects here are written in Rust and exist for learning purposes.
 
 Current projects include:
 
-* Lumine HTTP Server
-* Experimental Operating System
+* Lumine HTTP Framework (https://github.com/Ellen-desu/lumine)
+* Aether Experimental Operating System (https://github.com/Ellen-desu/aether)
 
 For more information, see individual project documentation.
