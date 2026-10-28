@@ -10,7 +10,7 @@
 
 I am a vocational high school student exploring the world of **low-level systems programming**, primarily writing in **Rust** and **Assembly**.
 
-- 🔭 Currently working on **[Aether](https://github.com/ouzuka-m/aether)**, an experimental operating system.
+- 🔭 Currently working on **[Regesa](https://github.com/ouzuka-m/regesa)**, an 64-bit operating system kernel.
 - 🎨 Alongside programming, I am also a **3D artist** creating visual renders.
 
 ---
