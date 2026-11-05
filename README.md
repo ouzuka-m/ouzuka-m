@@ -37,17 +37,17 @@ Here are some of my 16:9 renders:
     <tr>
       <td width="50%" align="center">
         <a href="./assets/Render-1.webp">
-          <img src="./assets/Render-1.webp" alt="Render Showcase 1 (16:9)" style="max-width: 100%; border-radius: 8px;" />
+          <img src="./assets/Render-1.webp" alt="Render Showcase 1" style="max-width: 100%; border-radius: 8px;" />
         </a>
         <br />
-        <em>Render #1</em>
+        <em>Stelle X Firefly</em>
       </td>
       <td width="50%" align="center">
         <a href="./assets/Render-2.webp">
-          <img src="./assets/Render-2.webp" alt="Render Showcase 2 (16:9)" style="max-width: 100%; border-radius: 8px;" />
+          <img src="./assets/Render-2.webp" alt="Render Showcase 2" style="max-width: 100%; border-radius: 8px;" />
         </a>
         <br />
-        <em>Render #2</em>
+        <em>Yao Guang</em>
       </td>
     </tr>
   </table>
