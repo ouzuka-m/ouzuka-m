@@ -19,7 +19,7 @@ I am a vocational high school student exploring the world of **low-level systems
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,linux,git" alt="Rust, Linux, Git" />
+    <img src="https://skillicons.dev/icons?i=rust,linux,git,github,arch,bash" alt="Rust, Linux, Git, GitHub, Arch, Bash" />
   </a>
 </div>
 
